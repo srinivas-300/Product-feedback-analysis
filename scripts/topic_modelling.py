@@ -11,7 +11,7 @@ import io
 
 def topic:
 
-    client = genai.Client(api_key="AIzaSyBh2xX2LL6pCu-C0uY6gHITH535vglwaOk")
+    client = genai.Client(api_key="")
 
     connection_string = "<YOUR_CONNECTION_STRING>"
 
